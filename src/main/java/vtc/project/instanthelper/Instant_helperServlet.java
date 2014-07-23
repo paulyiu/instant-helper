@@ -8,6 +8,6 @@ public class Instant_helperServlet extends HttpServlet {
 	public void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws IOException {
 		resp.setContentType("text/plain");
-		resp.getWriter().println("Instant Helper");
+		resp.getWriter().println("This is Instant Helper Servlet");
 	}
 }
