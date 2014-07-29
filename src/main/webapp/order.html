@@ -59,7 +59,7 @@
                 </div> 
 				
                  <div class="nav-item">
-                    <a href="order.html" class="order-nav">Order<em class="unselected-nav"></em></a>
+                    <a href="order.html" class="order-nav">Order<em class="selected-nav"></em></a>
                 </div>  
                 
 				 <div class="nav-item">
@@ -67,7 +67,7 @@
                 </div> 
 				
                 <div class="nav-item">
-                    <a href="contact.html" class="contact-nav">Contact<em class="selected-nav"></em></a>
+                    <a href="contact.html" class="contact-nav">Contact<em class="unselected-nav"></em></a>
                 </div> 
                 <div class="nav-item">
                     <a href="#" class="close-nav">Close<em class="unselected-nav"></em></a>
@@ -92,84 +92,75 @@
         	<div class="decoration"></div>
 			
 			<div class="container">
-			<H3> Contact </H3>
+			<H3> Order </H3>
             </div>
 	
 <div id="home">					        
-
-<div class="panel-group" id="accordion">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          <h3>Company Background</h3>
-        </a>
-      </h4>
-    </div>
-    <div id="collapseOne" class="panel-collapse collapse in">
-      <div class="panel-body">
-        GoUp co Ltd is an IT Solution Company incorporated in 2014 in Hong Kong. It provides IT solution for our potential client to solve their technical issue. We are responsible to develop mobile apps web application, database management.  
-In Hong Kong, GoUp co Ltd employs approximately 3 programmers and 1 clerical staff.  
-We should propose new Instant helper apps, it can let client which is available to create maintenance order just following step by step to fill in the form and waiting for the render to get the quotation which is suitable for them.
-      </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-          Contact Us
-        </a>
-      </h4>
-    </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
-      <div class="panel-body">
-
+<div class="container">
+    
 <form role="form">
-  <div class="form-group">
-    <label for="exampleInputEmail1">Name:</label>
-    <input type="email" class="form-control" id="helpInputName" placeholder="Input Name">
-  </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Subject:</label>
-    <input type="password" class="form-control" id="helpInputSubject" placeholder="Input Subject">
-  </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Message:</label>
-    <input type="password" class="form-control" id="helpInputMessage" placeholder="Input Message">
-  </div>
-
-</form>
-			
-			<form class="form-horizontal" role="form">
-			<p align="right">
-				  <button type="submit" class="btn btn-primary">Submit</button>
-			</p>
-			</form>	  
-			</form>			
-		
-      </div>
-    </div>
-  </div>
-
+<div class="form-group">
+  <label for="UserPhone">Order Type</label>
+  <select class="form-control">
+  <option>Wind</option>
+  <option>Fire</option>
+  <option>Water</option>
+  <option>Electric</option>
+</select>
 </div>
 
+  <div class="form-group">
+    <label for="UserName">Name</label>
+    <input type="text" class="form-control" id="UserName" placeholder="Enter Name">
+  </div>
+  
+  <div class="form-group">
+    <label for="UserPhone">Contact Phone</label>
+    <input type="text" class="form-control" id="UserPhone" placeholder="Contact Phone">
+  </div>
+  
+ <div class="form-group">
+  <label for="UserPhone">Region</label>
+  <select class="form-control">
+  <option>Hong Kong</option>
+  <option>Kowloon</option>
+  <option>New Territories</option>
+</select>
+</div>
+
+  <div class="form-group">
+    <label for="UserAddress">Residential Address</label>
+    <input type="text" class="form-control" id="UserPhone" placeholder="Address">
+  </div>
+  
+ <div class="formTextareaWrap">
+  <label for="comments">Comments</label>
+  <textarea name="orderCommentTextarea" class="orderTextarea requiredField" id="orderCommentTextarea"></textarea>
+ </div>
+  
+  <div class="form-group">
+    <label for="exampleInputFile">Upload Photo</label>
+    <input type="file" id="exampleInputFile">
+  </div>
+
+	<div class="formSubmitButtonErrorsWrap">
+        <input type="submit" class="buttonWrap button button-blue orderSubmitButton" id="orderSubmitButton" value="SUBMIT" data-formId="orderForm"/>
+    </div>
+	
+</form>
+</div>
+            </div>
+			
+          <div class="decoration"></div>
+			<div class="content-footer">
+            	<p class="copyright-content">Copyright 2014.<br> All rights reserved</p>
+            </div>
+        </div>                
+    </div>  
 
 
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>  
 	
 </div>
-
-            <div class="decoration"></div>
-            
-            <div class="content-footer">
-            	<p class="copyright-content">Copyright 2014.<br> All rights reserved</p>
-
-
-                <div class="clear"></div>
-            </div>
 
 </body>
 </html>
