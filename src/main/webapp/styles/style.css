@@ -359,6 +359,10 @@ body {
 	background-position:0px 18px!important;
 	background-image:url(../images/misc/facebook-white.png);	
 }
+.profile-nav{
+	background-position:0px 18px!important;
+	background-image:url(../images/misc/sidebar-features.png);	
+}
 
 .selected-nav{
 	background-image:url(../images/misc/nav-active.png);
