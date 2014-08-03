@@ -14,3 +14,6 @@ hs_err_pid*
 pom.xml
 
 src/main/webapp/images/misc/glogin.png
+src/main/webapp/styles/style.css
+src/main/webapp/styles/style.css
+src/main/webapp/worker.html
