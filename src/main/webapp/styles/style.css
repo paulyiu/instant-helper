@@ -360,6 +360,15 @@ body {
 .message-nav{
 	background-image:url(../images/misc/sidebar-mail.png);	
 }
+.worker-nav{
+	background-image:url(../images/misc/icons/speechbubble2.png);	
+}
+.assignjob-nav{
+	background-image:url(../images/misc/icons/coverflow.png);	
+}
+.changeorder-nav{
+	background-image:url(../images/misc/icons/flag.png);	
+}
 
 .contact-nav{
 	background-image:url(../images/misc/sidebar-contact.png);	
