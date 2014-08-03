@@ -2012,3 +2012,7 @@ fieldset { display:inline-block; }
 .input-group-btn:last-child > .btn-group {
   margin-left: -1px;
 }
+
+select, option {
+    text-align: center;
+}
