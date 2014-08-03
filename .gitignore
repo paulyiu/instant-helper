@@ -13,3 +13,4 @@ hs_err_pid*
 /target/
 pom.xml
 
+src/main/webapp/images/misc/glogin.png
