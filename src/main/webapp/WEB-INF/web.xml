@@ -1,18 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<web-app xmlns="http://java.sun.com/xml/ns/javaee"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
-   version="2.5">
-	<servlet>
-		<servlet-name>Instant_helper</servlet-name>
-		<servlet-class>vtc.project.instanthelper.Instant_helperServlet</servlet-class>
-	</servlet>
-	<servlet-mapping>
-		<servlet-name>Instant_helper</servlet-name>
-		<url-pattern>/instant_helper</url-pattern>
-	</servlet-mapping>
-	<welcome-file-list>
-		<welcome-file>index.html</welcome-file>
-	</welcome-file-list>
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <servlet>
+    <servlet-name>Instant_helper</servlet-name>
+    <servlet-class>vtc.project.instanthelper.Instant_helperServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Instant_helper</servlet-name>
+    <url-pattern>/instant_helper</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Register</servlet-name>
+    <servlet-class>vtc.project.instanthelper.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Register</servlet-name>
+    <url-pattern>/register</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>Send</servlet-name>
+    <servlet-class>vtc.project.instanthelper.SendServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Send</servlet-name>
+    <url-pattern>/admin/send</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+      <security-constraint>
+        <web-resource-collection>
+            <web-resource-name>admin</web-resource-name>
+            <url-pattern>/admin/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
 </web-app>
-
