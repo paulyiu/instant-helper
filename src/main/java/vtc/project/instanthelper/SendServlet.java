@@ -2,6 +2,8 @@ package vtc.project.instanthelper;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Level;
@@ -33,6 +35,7 @@ public class SendServlet extends HttpServlet {
 	private String mResults = "";
 	public void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws IOException {
+		mResults = "";
 		showData(resp);
 	}
 
@@ -40,10 +43,9 @@ public class SendServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp)
 			throws ServletException, IOException {
 
-		String msg = req.getParameter("msg");
-		
+		String msg = req.getParameter("msg"); 
 		PersistenceManager pm = PMF.get().getPersistenceManager();
-
+		mResults = " Message to send:" + msg + " ("+ URLEncoder.encode(msg,"UTF-8") + ")<br>";
 		Query q = pm.newQuery(Member.class);
 		try{
 			List<Member> results = (List<Member>) q.execute();
@@ -57,10 +59,10 @@ public class SendServlet extends HttpServlet {
 				new ArrayList<NameValuePair>();
 				Sender sender = new Sender(GCM_KEY);
 				Message message = new Message.Builder()
-				.addData("message",msg).build();
+				.addData("message",URLEncoder.encode(msg,"UTF-8")).build();
 				MulticastResult multicastResult;
 				multicastResult = sender.sendNoRetry(message, registration_ids);
-				mResults = multicastResult.toString();
+				mResults += multicastResult.toString();
 				logger.log(Level.WARNING,mResults);
 
 			}else{
@@ -74,6 +76,7 @@ public class SendServlet extends HttpServlet {
 	
 	protected void showData(HttpServletResponse resp) throws IOException{
 		resp.setContentType("text/html");
+		resp.setCharacterEncoding("UTF-8");
 		PrintWriter out = resp.getWriter();
 		out.write("<html>");
 		out.write("<body>");

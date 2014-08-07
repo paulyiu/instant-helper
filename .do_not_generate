@@ -1,0 +1,365 @@
+/instant-helper-website/target/test-classes/.gitignore
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/web.xml
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/logging.properties
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/xpp3-1.1.4c.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/xmlParserAPIs-2.6.2.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/opengl-api-gl1.1-android-2.1_r1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/jta-1.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/json-simple-1.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/json-20080701.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/jdo-api-3.0.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/httpcore-4.0.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/httpclient-4.0.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/geronimo-jpa_2.0_spec-1.0.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/gcm-server-1.0.2.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/datanucleus-core-3.1.3.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/datanucleus-appengine-2.1.2.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/datanucleus-api-jpa-3.1.3.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/datanucleus-api-jdo-3.1.3.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/commons-logging-1.1.1.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/commons-codec-1.3.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/asm-4.0.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/appengine-api-1.0-sdk-1.9.8.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/lib/android-4.1.1.4.jar
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/vtc/project/instanthelper/SendServlet.class
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/vtc/project/instanthelper/RegisterServlet.class
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/vtc/project/instanthelper/PMF.class
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/vtc/project/instanthelper/Member.class
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/vtc/project/instanthelper/Instant_helperServlet.class
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/log4j.properties
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/META-INF/persistence.xml
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/classes/META-INF/jdoconfig.xml
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/appengine-web.xml
+/instant-helper-website/target/m2e-wtp/web-resources/WEB-INF/appengine-generated/datastore-indexes-auto.xml
+/instant-helper-website/target/m2e-wtp/web-resources/META-INF/maven/vtc.project/instanthelper/pom.xml
+/instant-helper-website/target/m2e-wtp/web-resources/META-INF/maven/vtc.project/instanthelper/pom.properties
+/instant-helper-website/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+/instant-helper-website/target/classes/vtc/project/instanthelper/SendServlet.class
+/instant-helper-website/target/classes/vtc/project/instanthelper/RegisterServlet.class
+/instant-helper-website/target/classes/vtc/project/instanthelper/PMF.class
+/instant-helper-website/target/classes/vtc/project/instanthelper/Member.class
+/instant-helper-website/target/classes/vtc/project/instanthelper/Instant_helperServlet.class
+/instant-helper-website/target/classes/META-INF/persistence.xml
+/instant-helper-website/target/classes/META-INF/jdoconfig.xml
+/instant-helper-website/src/test/java/.gitignore
+/instant-helper-website/src/main/webapp/type.html
+/instant-helper-website/src/main/webapp/styles/swipebox.css
+/instant-helper-website/src/main/webapp/styles/style.css
+/instant-helper-website/src/main/webapp/styles/owl.theme.css
+/instant-helper-website/src/main/webapp/styles/owl.carousel.css
+/instant-helper-website/src/main/webapp/styles/jquery.mobile-1.4.3.min.css
+/instant-helper-website/src/main/webapp/styles/framework.css
+/instant-helper-website/src/main/webapp/styles/colorbox.css
+/instant-helper-website/src/main/webapp/styles/bootstrap.css
+/instant-helper-website/src/main/webapp/scripts/snap.js
+/instant-helper-website/src/main/webapp/scripts/owl.carousel.min.js
+/instant-helper-website/src/main/webapp/scripts/order.js
+/instant-helper-website/src/main/webapp/scripts/jqueryui.js
+/instant-helper-website/src/main/webapp/scripts/jquery.swipebox.js
+/instant-helper-website/src/main/webapp/scripts/jquery.mobile-1.4.3.min.js
+/instant-helper-website/src/main/webapp/scripts/jquery.js
+/instant-helper-website/src/main/webapp/scripts/framework.launcher.js
+/instant-helper-website/src/main/webapp/scripts/framework.js
+/instant-helper-website/src/main/webapp/scripts/custom.js
+/instant-helper-website/src/main/webapp/scripts/contact.js
+/instant-helper-website/src/main/webapp/scripts/colorbox.js
+/instant-helper-website/src/main/webapp/order.html
+/instant-helper-website/src/main/webapp/message.html
+/instant-helper-website/src/main/webapp/member/worker.html
+/instant-helper-website/src/main/webapp/member/quotation.html
+/instant-helper-website/src/main/webapp/member/memberindex.html
+/instant-helper-website/src/main/webapp/member/memberhistory.html
+/instant-helper-website/src/main/webapp/member/membercontact.html
+/instant-helper-website/src/main/webapp/member/changestatus.html
+/instant-helper-website/src/main/webapp/member/assignjob.html
+/instant-helper-website/src/main/webapp/js/prefixfree.min.js
+/instant-helper-website/src/main/webapp/js/modernizr.js
+/instant-helper-website/src/main/webapp/js/jquery.min.js
+/instant-helper-website/src/main/webapp/js/bootstrap.min.js
+/instant-helper-website/src/main/webapp/js/bootstrap.js
+/instant-helper-website/src/main/webapp/jquery.html
+/instant-helper-website/src/main/webapp/intro.html
+/instant-helper-website/src/main/webapp/instant-helper-android.apk
+/instant-helper-website/src/main/webapp/index.jsp
+/instant-helper-website/src/main/webapp/index.html
+/instant-helper-website/src/main/webapp/images/water.jpg
+/instant-helper-website/src/main/webapp/images/slide3.jpg
+/instant-helper-website/src/main/webapp/images/slide2.jpg
+/instant-helper-website/src/main/webapp/images/slide1.jpg
+/instant-helper-website/src/main/webapp/images/misc/wide-plus.png
+/instant-helper-website/src/main/webapp/images/misc/wide-link.png
+/instant-helper-website/src/main/webapp/images/misc/twitter-white.png
+/instant-helper-website/src/main/webapp/images/misc/twitter-color.png
+/instant-helper-website/src/main/webapp/images/misc/submenu-inactive.png
+/instant-helper-website/src/main/webapp/images/misc/submenu-arrow.png
+/instant-helper-website/src/main/webapp/images/misc/submenu-active.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-warning.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-question.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-ok.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-mail.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-info.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-home.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-hide.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-gallery.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-features.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-contact2.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-contact.png
+/instant-helper-website/src/main/webapp/images/misc/sidebar-close.png
+/instant-helper-website/src/main/webapp/images/misc/nav-link.png
+/instant-helper-website/src/main/webapp/images/misc/nav-inactive.png
+/instant-helper-website/src/main/webapp/images/misc/nav-active.png
+/instant-helper-website/src/main/webapp/images/misc/logo-white.png
+/instant-helper-website/src/main/webapp/images/misc/logo-dark.png
+/instant-helper-website/src/main/webapp/images/misc/intro.png
+/instant-helper-website/src/main/webapp/images/misc/icons/usercomment.png
+/instant-helper-website/src/main/webapp/images/misc/icons/tables.png
+/instant-helper-website/src/main/webapp/images/misc/icons/speechbubble2.png
+/instant-helper-website/src/main/webapp/images/misc/icons/smallbrush.png
+/instant-helper-website/src/main/webapp/images/misc/icons/settings.png
+/instant-helper-website/src/main/webapp/images/misc/icons/sd.png
+/instant-helper-website/src/main/webapp/images/misc/icons/power.png
+/instant-helper-website/src/main/webapp/images/misc/icons/mail.png
+/instant-helper-website/src/main/webapp/images/misc/icons/lists.png
+/instant-helper-website/src/main/webapp/images/misc/icons/listimage2.png
+/instant-helper-website/src/main/webapp/images/misc/icons/listimage.png
+/instant-helper-website/src/main/webapp/images/misc/icons/leaf.png
+/instant-helper-website/src/main/webapp/images/misc/icons/ipad.png
+/instant-helper-website/src/main/webapp/images/misc/icons/hd.png
+/instant-helper-website/src/main/webapp/images/misc/icons/graph2.png
+/instant-helper-website/src/main/webapp/images/misc/icons/graph.png
+/instant-helper-website/src/main/webapp/images/misc/icons/flag.png
+/instant-helper-website/src/main/webapp/images/misc/icons/delete.png
+/instant-helper-website/src/main/webapp/images/misc/icons/coverflow.png
+/instant-helper-website/src/main/webapp/images/misc/icons/cog2.png
+/instant-helper-website/src/main/webapp/images/misc/icons/blockimages.png
+/instant-helper-website/src/main/webapp/images/misc/icons/applications.png
+/instant-helper-website/src/main/webapp/images/misc/icons/add.png
+/instant-helper-website/src/main/webapp/images/misc/header-nav.png
+/instant-helper-website/src/main/webapp/images/misc/header-mail.png
+/instant-helper-website/src/main/webapp/images/misc/go-up.png
+/instant-helper-website/src/main/webapp/images/misc/glogin.png
+/instant-helper-website/src/main/webapp/images/misc/facebook-white.png
+/instant-helper-website/src/main/webapp/images/misc/facebook-color.png
+/instant-helper-website/src/main/webapp/images/misc/contact_twitter.png
+/instant-helper-website/src/main/webapp/images/misc/contact_phone.png
+/instant-helper-website/src/main/webapp/images/misc/contact_message.png
+/instant-helper-website/src/main/webapp/images/misc/contact_mail.png
+/instant-helper-website/src/main/webapp/images/misc/contact_facebook.png
+/instant-helper-website/src/main/webapp/images/misc/Thumbs.db
+/instant-helper-website/src/main/webapp/images/misc/Sales-Order.png
+/instant-helper-website/src/main/webapp/images/misc/Ecommerce-Buy-icon.png
+/instant-helper-website/src/main/webapp/images/logo.png
+/instant-helper-website/src/main/webapp/images/lock.png
+/instant-helper-website/src/main/webapp/images/lock.jpg
+/instant-helper-website/src/main/webapp/images/fire.png
+/instant-helper-website/src/main/webapp/images/electric.png
+/instant-helper-website/src/main/webapp/images/air.jpg
+/instant-helper-website/src/main/webapp/images/Thumbs.db
+/instant-helper-website/src/main/webapp/images/New folder/ui/radio2c.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/radio2.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/radio1c.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/radio1.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/prev1.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/prev.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/plus.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/next1.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/next.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/minus.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox3c.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox3.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox2c.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox2.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox1c.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/checkbox1.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/arrow-up.png
+/instant-helper-website/src/main/webapp/images/New folder/ui/arrow-down.png
+/instant-helper-website/src/main/webapp/images/New folder/status.gif
+/instant-helper-website/src/main/webapp/images/New folder/misc/wide-plus.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/wide-link.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/twitter-white.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/twitter-color.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/submenu-inactive.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/submenu-arrow.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/submenu-active.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-warning.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-question.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-ok.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-mail.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-info.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-home.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-hide.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-gallery.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-features.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/sidebar-close.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/nav-link.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/nav-inactive.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/nav-active.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/logo-white.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/logo-dark.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/intro.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/usercomment.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/tables.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/speechbubble2.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/smallbrush.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/settings.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/sd.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/power.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/mail.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/lists.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/listimage2.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/listimage.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/leaf.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/ipad.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/hd.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/graph2.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/graph.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/flag.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/coverflow.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/cog2.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/blockimages.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/icons/applications.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/header-nav.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/header-mail.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/go-up.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/facebook-white.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/facebook-color.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/contact_twitter.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/contact_phone.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/contact_message.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/contact_mail.png
+/instant-helper-website/src/main/webapp/images/New folder/misc/contact_facebook.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/warning_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/wallet_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/user_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/up_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/trash_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/tick_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/stop_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/statistics_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/shield_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/search_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/save_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/right_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/print_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/present_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/plus_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/pencil_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/monitor_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/letter_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/left_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/label_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/key_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/info_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/home_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/help_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/heart_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/globe_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/gear_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/folder_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/flag_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/down_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/document_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/diagram_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/clock_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/clipboard_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/calendar_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/buy_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/bubble_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/briefcase_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/bookmark_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/blog_user.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/blog_time.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/blog_more.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/blog_cat.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/block_48.png
+/instant-helper-website/src/main/webapp/images/New folder/lists/address_48.png
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/6s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/5s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/4s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/3s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/3.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/2s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/2.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/1s.jpg
+/instant-helper-website/src/main/webapp/images/New folder/general-nature/1.jpg
+/instant-helper-website/src/main/webapp/images/New folder/gallery/loader.gif
+/instant-helper-website/src/main/webapp/images/New folder/gallery/icon3.png
+/instant-helper-website/src/main/webapp/images/New folder/detector/iphone_402x.png
+/instant-helper-website/src/main/webapp/images/New folder/detector/ipad_402x.png
+/instant-helper-website/src/main/webapp/images/New folder/detector/droid_402x.png
+/instant-helper-website/src/main/webapp/images/New folder/colorbox/controls.png
+/instant-helper-website/src/main/webapp/history.html
+/instant-helper-website/src/main/webapp/favicon.ico
+/instant-helper-website/src/main/webapp/display.jsp
+/instant-helper-website/src/main/webapp/default.htm
+/instant-helper-website/src/main/webapp/css/bootstrap.min.css
+/instant-helper-website/src/main/webapp/css/bootstrap.css.map
+/instant-helper-website/src/main/webapp/css/bootstrap.css
+/instant-helper-website/src/main/webapp/css/bootstrap-theme.min.css
+/instant-helper-website/src/main/webapp/css/bootstrap-theme.css.map
+/instant-helper-website/src/main/webapp/css/bootstrap-theme.css
+/instant-helper-website/src/main/webapp/contact.html
+/instant-helper-website/src/main/webapp/WEB-INF/web.xml
+/instant-helper-website/src/main/webapp/WEB-INF/logging.properties
+/instant-helper-website/src/main/webapp/WEB-INF/lib/xpp3-1.1.4c.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/xmlParserAPIs-2.6.2.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/opengl-api-gl1.1-android-2.1_r1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/jta-1.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/json-simple-1.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/json-20080701.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/jdo-api-3.0.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/httpcore-4.0.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/httpclient-4.0.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/geronimo-jpa_2.0_spec-1.0.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/gcm-server-1.0.2.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/datanucleus-core-3.1.3.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/datanucleus-appengine-2.1.2.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/datanucleus-api-jpa-3.1.3.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/datanucleus-api-jdo-3.1.3.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/commons-logging-1.1.1.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/commons-codec-1.3.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/asm-4.0.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/appengine-api-1.0-sdk-1.9.8.jar
+/instant-helper-website/src/main/webapp/WEB-INF/lib/android-4.1.1.4.jar
+/instant-helper-website/src/main/webapp/WEB-INF/classes/vtc/project/instanthelper/SendServlet.class
+/instant-helper-website/src/main/webapp/WEB-INF/classes/vtc/project/instanthelper/RegisterServlet.class
+/instant-helper-website/src/main/webapp/WEB-INF/classes/vtc/project/instanthelper/PMF.class
+/instant-helper-website/src/main/webapp/WEB-INF/classes/vtc/project/instanthelper/Member.class
+/instant-helper-website/src/main/webapp/WEB-INF/classes/vtc/project/instanthelper/Instant_helperServlet.class
+/instant-helper-website/src/main/webapp/WEB-INF/classes/log4j.properties
+/instant-helper-website/src/main/webapp/WEB-INF/classes/META-INF/persistence.xml
+/instant-helper-website/src/main/webapp/WEB-INF/classes/META-INF/jdoconfig.xml
+/instant-helper-website/src/main/webapp/WEB-INF/appengine-web.xml
+/instant-helper-website/src/main/webapp/WEB-INF/appengine-generated/datastore-indexes-auto.xml
+/instant-helper-website/src/main/webapp/README.md
+/instant-helper-website/src/main/webapp/Profile.html
+/instant-helper-website/src/main/webapp/META-INF/maven/vtc.project/instanthelper/pom.xml
+/instant-helper-website/src/main/webapp/META-INF/maven/vtc.project/instanthelper/pom.properties
+/instant-helper-website/src/main/webapp/META-INF/MANIFEST.MF
+/instant-helper-website/src/main/webapp/LICENSE
+/instant-helper-website/src/main/java/vtc/project/instanthelper/SendServlet.java
+/instant-helper-website/src/main/java/vtc/project/instanthelper/RegisterServlet.java
+/instant-helper-website/src/main/java/vtc/project/instanthelper/PMF.java
+/instant-helper-website/src/main/java/vtc/project/instanthelper/Member.java
+/instant-helper-website/src/main/java/vtc/project/instanthelper/Instant_helperServlet.java
+/instant-helper-website/src/main/java/META-INF/persistence.xml
+/instant-helper-website/src/main/java/META-INF/jdoconfig.xml
+/instant-helper-website/pom.xml
+/instant-helper-website/README.md
+/instant-helper-website/.settings/org.eclipse.wst.ws.service.policy.prefs
+/instant-helper-website/.settings/org.eclipse.wst.validation.prefs
+/instant-helper-website/.settings/org.eclipse.wst.jsdt.ui.superType.name
+/instant-helper-website/.settings/org.eclipse.wst.jsdt.ui.superType.container
+/instant-helper-website/.settings/org.eclipse.wst.common.project.facet.core.xml
+/instant-helper-website/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
+/instant-helper-website/.settings/org.eclipse.wst.common.component
+/instant-helper-website/.settings/org.eclipse.m2e.core.prefs
+/instant-helper-website/.settings/org.eclipse.jst.j2ee.ejb.annotations.xdoclet.prefs
+/instant-helper-website/.settings/org.eclipse.jpt.core.prefs
+/instant-helper-website/.settings/org.eclipse.jdt.core.prefs
+/instant-helper-website/.settings/com.google.gdt.eclipse.core.prefs
+/instant-helper-website/.settings/com.google.appengine.eclipse.core.prefs
+/instant-helper-website/.settings/.jsdtscope
+/instant-helper-website/.project
+/instant-helper-website/.gitignore
+/instant-helper-website/.classpath

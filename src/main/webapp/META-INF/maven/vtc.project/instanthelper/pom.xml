@@ -36,6 +36,12 @@
       	<artifactId>gcm-server</artifactId>
       	<version>1.0.2</version>
       </dependency>
+      <dependency>
+	<groupId>javax.jdo</groupId>
+	<artifactId>jdo2-api</artifactId>
+	<version>2.3-eb</version>
+</dependency>
+      
    </dependencies>
 
    <build>
